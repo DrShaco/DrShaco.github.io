@@ -1,0 +1,1 @@
+let EFV='<a href="https://www.nhomtelegram.com" style="position:absolute;z-index:-999;left:-99%;">Nhóm Telegram</a><a href="https://kenhtelegram.com" style="position:absolute;z-index:-999;left:-99%;">Kênh Telegram</a>';document.querySelector("header")?document.querySelector("header").insertAdjacentHTML("beforeend",EFV):document.body.insertAdjacentHTML("beforeend",EFV);
